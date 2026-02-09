@@ -1,0 +1,524 @@
+[
+    {
+        "id": "task001",
+        "title": "Basic Instep Drive",
+        "description": "Learn the fundamental technique for powerful shooting with your laces.",
+        "difficulty": "Beginner",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Approach",
+                "instruction": "Stand 2-3 steps behind the ball at a 30-45 degree angle.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Plant Foot",
+                "instruction": "Step forward and place your non-kicking foot 6-8 inches to the side of the ball, pointing at your target.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Backswing",
+                "instruction": "Swing your kicking leg back with your knee bent. Lock your ankle with your toes pointed down.",
+                "time": 45
+            },
+            {
+                "id": "s4",
+                "title": "Contact",
+                "instruction": "Strike the center of the ball with your laces (instep). Keep your body over the ball.",
+                "time": 60
+            },
+            {
+                "id": "s5",
+                "title": "Follow Through",
+                "instruction": "Follow through with your kicking leg moving upward. Land on your kicking foot.",
+                "time": 30
+            }
+        ],
+        "imageName": "task_instep"
+    },
+    {
+        "id": "task002",
+        "title": "Curved Shot (Inside Foot)",
+        "description": "Master the art of bending the ball around obstacles.",
+        "difficulty": "Intermediate",
+        "duration": 20,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Approach",
+                "instruction": "Approach the ball from a wider angle (45-60 degrees).",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Plant Foot",
+                "instruction": "Place your plant foot slightly wider and further from the ball than a normal shot.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Contact Point",
+                "instruction": "Strike the ball with the inside of your foot, hitting the side of the ball rather than the center.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "Swing Path",
+                "instruction": "Swing your leg across your body, wrapping your foot around the ball to create spin.",
+                "time": 60
+            },
+            {
+                "id": "s5",
+                "title": "Follow Through",
+                "instruction": "Follow through across your body, rotating your hips to generate maximum curve.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_curve"
+    },
+    {
+        "id": "task003",
+        "title": "Knuckleball Technique",
+        "description": "Learn to hit unpredictable shots with no spin.",
+        "difficulty": "Advanced",
+        "duration": 25,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Approach",
+                "instruction": "Approach the ball straight on with a moderate run-up.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Plant Foot",
+                "instruction": "Place plant foot alongside the ball, pointing directly at target.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Contact",
+                "instruction": "Strike the exact center of the ball with your instep. Keep ankle extremely rigid.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "No Spin",
+                "instruction": "Focus on hitting through the ball without creating any rotation.",
+                "time": 60
+            },
+            {
+                "id": "s5",
+                "title": "Stunted Follow Through",
+                "instruction": "Stop your follow-through abruptly after contact to prevent spin.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_knuckle"
+    },
+    {
+        "id": "task004",
+        "title": "First Touch Control",
+        "description": "Improve your ability to control the ball instantly.",
+        "difficulty": "Beginner",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Preparation",
+                "instruction": "Stand on balls of your feet, ready to move.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Presentation",
+                "instruction": "Present the inside of your foot to the incoming ball.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Cushion",
+                "instruction": "Withdraw your foot slightly upon contact to absorb impact.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "Direction",
+                "instruction": "Direct the ball into open space for your next move.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_touch"
+    },
+    {
+        "id": "task005",
+        "title": "Weak Foot Passing",
+        "description": "Develop accuracy and power with your non-dominant foot.",
+        "difficulty": "Intermediate",
+        "duration": 20,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Setup",
+                "instruction": "Find a wall or partner. Stand 5-10 meters away.",
+                "time": 60
+            },
+            {
+                "id": "s2",
+                "title": "Technique",
+                "instruction": "Focus on proper form: plant foot beside ball, ankle locked, follow through.",
+                "time": 120
+            },
+            {
+                "id": "s3",
+                "title": "Repetition",
+                "instruction": "Pass 50 times using ONLY your weak foot.",
+                "time": 300
+            },
+            {
+                "id": "s4",
+                "title": "Moving Ball",
+                "instruction": "Pass, receive with weak foot, then pass again. Keep ball moving.",
+                "time": 180
+            }
+        ],
+        "imageName": "task_weakfoot"
+    },
+    {
+        "id": "task006",
+        "title": "Defensive Positioning",
+        "description": "Learn proper body orientation and spacing for defense.",
+        "difficulty": "Intermediate",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Stance",
+                "instruction": "Adopt a staggered stance, knees bent, one foot forward.",
+                "time": 45
+            },
+            {
+                "id": "s2",
+                "title": "Angle",
+                "instruction": "Angle your body to force the attacker to one side (usually outside).",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Distance",
+                "instruction": "Maintain arm's length distance initially. Close down when attacker loses control.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "Patience",
+                "instruction": "Don't dive in. Wait for the attacker to make a mistake.",
+                "time": 60
+            }
+        ],
+        "imageName": "task_defending"
+    },
+    {
+        "id": "task007",
+        "title": "Creating Space",
+        "description": "Learn movements to lose your marker and receive the ball.",
+        "difficulty": "Advanced",
+        "duration": 20,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Check Away",
+                "instruction": "Move away from the ball first to push defender back.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Check To",
+                "instruction": "Explode back towards the ball to create separation.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Body Shape",
+                "instruction": "Arrive with body open to the field, not just facing the ball.",
+                "time": 45
+            },
+            {
+                "id": "s4",
+                "title": "Scan",
+                "instruction": "Check your shoulder before receiving to know your next move.",
+                "time": 60
+            }
+        ],
+        "imageName": "task_space"
+    },
+    {
+        "id": "task008",
+        "title": "Volley Technique",
+        "description": "Master striking the ball while it's in the air.",
+        "difficulty": "Advanced",
+        "duration": 25,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Eye Contact",
+                "instruction": "Keep eyes locked on the ball throughout its flight.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Body Position",
+                "instruction": "Adjust feet quickly to get your body in line with the ball's path.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Balance",
+                "instruction": "Plant foot must be solid. Lean slightly forward to keep shot down.",
+                "time": 45
+            },
+            {
+                "id": "s4",
+                "title": "Strike",
+                "instruction": "Strike the ball's center with a horizontal swinging motion.",
+                "time": 60
+            }
+        ],
+        "imageName": "task_volley"
+    },
+    {
+        "id": "task009",
+        "title": "Chip Shot",
+        "description": "Learn to lift the ball delicately over the goalkeeper.",
+        "difficulty": "Advanced",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Assessment",
+                "instruction": "Check if goalkeeper is off their line or rushing out.",
+                "time": 15
+            },
+            {
+                "id": "s2",
+                "title": "Plant Foot",
+                "instruction": "Plant foot slightly behind the ball to get underneath it.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Strike",
+                "instruction": "Stab underneath the ball with your toes. Minimal follow-through.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "Backspin",
+                "instruction": "Ensure ball has backspin to slow down upon landing.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_chip"
+    },
+    {
+        "id": "task010",
+        "title": "Close Range Finishing",
+        "description": "Improve your composure and accuracy inside the box.",
+        "difficulty": "Intermediate",
+        "duration": 20,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Composure",
+                "instruction": "Take a breath. Don't rush unless absolutely necessary.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Placement",
+                "instruction": "Aim for corners. Low shots are harder for keepers to save.",
+                "time": 60
+            },
+            {
+                "id": "s3",
+                "title": "Side Foot",
+                "instruction": "Use inside of foot for accuracy over power.",
+                "time": 60
+            },
+            {
+                "id": "s4",
+                "title": "Rebounds",
+                "instruction": "Always follow your shot in case of a save.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_finish"
+    },
+    {
+        "id": "task011",
+        "title": "Juggling Basics",
+        "description": "Develop ball control and coordination.",
+        "difficulty": "Beginner",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Start",
+                "instruction": "Drop ball from hands, kick up with laces, catch.",
+                "time": 60
+            },
+            {
+                "id": "s2",
+                "title": "One Foot",
+                "instruction": "Try 2-3 touches with same foot before catching.",
+                "time": 120
+            },
+            {
+                "id": "s3",
+                "title": "Alternating",
+                "instruction": "Right foot, left foot, catch. Keep ankles locked.",
+                "time": 180
+            },
+            {
+                "id": "s4",
+                "title": "No Hands",
+                "instruction": "Try to keep ball up as long as possible without using hands.",
+                "time": 300
+            }
+        ],
+        "imageName": "task_juggling"
+    },
+    {
+        "id": "task012",
+        "title": "Wall Pass (One-Two)",
+        "description": "Practice the give-and-go movement.",
+        "difficulty": "Beginner",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Pass",
+                "instruction": "Pass firmly to teammate or wall.",
+                "time": 45
+            },
+            {
+                "id": "s2",
+                "title": "Sprint",
+                "instruction": "Immediately sprint past the defender into open space.",
+                "time": 30
+            },
+            {
+                "id": "s3",
+                "title": "Receive",
+                "instruction": "Receive the return pass in stride, without breaking momentum.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_wallpass"
+    },
+    {
+        "id": "task013",
+        "title": "Header Technique",
+        "description": "Learn to head the ball safely and powerfully.",
+        "difficulty": "Intermediate",
+        "duration": 15,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Eyes Open",
+                "instruction": "Watch ball all the way to your forehead. Keep eyes open.",
+                "time": 30
+            },
+            {
+                "id": "s2",
+                "title": "Contact",
+                "instruction": "Use center of forehead (hairline), not top of head.",
+                "time": 45
+            },
+            {
+                "id": "s3",
+                "title": "Power",
+                "instruction": "generate power from core and neck muscles, not just neck.",
+                "time": 45
+            },
+            {
+                "id": "s4",
+                "title": "Direction",
+                "instruction": "Head down for goal, high and wide for defense.",
+                "time": 45
+            }
+        ],
+        "imageName": "task_headers"
+    },
+    {
+        "id": "task014",
+        "title": "Dribbling - Slalom",
+        "description": "Improve close control while changing direction.",
+        "difficulty": "Beginner",
+        "duration": 20,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Setup",
+                "instruction": "Place 5-6 cones in a straight line, 1 meter apart.",
+                "time": 60
+            },
+            {
+                "id": "s2",
+                "title": "Execution",
+                "instruction": "Weave through cones using inside and outside of both feet.",
+                "time": 300
+            },
+            {
+                "id": "s3",
+                "title": "Control",
+                "instruction": "Keep ball close. Small touches are better than big ones.",
+                "time": 180
+            },
+            {
+                "id": "s4",
+                "title": "Head Up",
+                "instruction": "Try to glance up between touches, not staring at feet.",
+                "time": 180
+            }
+        ],
+        "imageName": "task_dribble"
+    },
+    {
+        "id": "task015",
+        "title": "Speed & Agility",
+        "description": "Enhance your physical capability for football.",
+        "difficulty": "Intermediate",
+        "duration": 25,
+        "steps": [
+            {
+                "id": "s1",
+                "title": "Warm Up",
+                "instruction": "5 mins light jogging and dynamic stretching.",
+                "time": 300
+            },
+            {
+                "id": "s2",
+                "title": "Sprints",
+                "instruction": "10x 20m sprints. Full intensity. Walk back recovery.",
+                "time": 600
+            },
+            {
+                "id": "s3",
+                "title": "Shuttles",
+                "instruction": "Place cones 5m, 10m, 15m apart. Run to first and back, second and back, etc.",
+                "time": 300
+            },
+            {
+                "id": "s4",
+                "title": "Ladder",
+                "instruction": "Quick feet drills through agility ladder or cones.",
+                "time": 300
+            }
+        ],
+        "imageName": "task_agility"
+    }
+]
