@@ -90,12 +90,6 @@ class MainViewModelFM: ObservableObject {
             .sink { [weak self] purchasedIDs in
                 guard let self = self else { return }
                 self.premiumEnabled = !purchasedIDs.isEmpty
-                
-                // Re-validate current theme selection
-                let resolved = MainViewModelFM.resolveThemeID(id: self.selectedThemeID, purchasedIDs: purchasedIDs)
-                if resolved != self.selectedThemeID {
-                    self.selectedThemeID = resolved
-                }
             }
             .store(in: &cancellables)
     }
