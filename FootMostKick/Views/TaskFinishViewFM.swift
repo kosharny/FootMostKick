@@ -62,6 +62,7 @@ struct TaskFinishViewFM: View {
                     }
                 }
                 .padding(.vertical, 20)
+                .padding(.horizontal, 20)
                 .background(Color.white.opacity(0.1))
                 .cornerRadius(20)
                 .padding(.horizontal, 40)

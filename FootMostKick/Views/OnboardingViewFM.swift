@@ -15,7 +15,7 @@ struct OnboardingViewFM: View {
             viewModel.currentTheme.backgroundColor
                 .ignoresSafeArea()
             
-            VStack {
+            VStack(spacing: 0) {
                 HStack {
                     Spacer()
                     Button("Skip") {
@@ -23,9 +23,8 @@ struct OnboardingViewFM: View {
                     }
                     .font(.system(size: 16, weight: .medium))
                     .foregroundColor(.white.opacity(0.6))
-                    .padding(.bottom, 20)
+                    .padding(.trailing, 20)
                 }
-                .padding(.horizontal, 20)
                 .padding(.top, 20)
                 Spacer()
                 
@@ -56,7 +55,8 @@ struct OnboardingViewFM: View {
                     }
                 }
                 .tabViewStyle(PageTabViewStyle(indexDisplayMode: .never))
-                .frame(height: 450)
+                
+                Spacer(minLength: 10)
                 
                 HStack(spacing: 8) {
                     ForEach(0..<pages.count, id: \.self) { index in
@@ -87,7 +87,7 @@ struct OnboardingViewFM: View {
                 }
                 .padding(.horizontal, 40)
                 .padding(.bottom, 20)
-                Spacer(minLength: 100)
+                Spacer(minLength: 60)
             }
         }
     }

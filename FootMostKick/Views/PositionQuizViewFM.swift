@@ -200,6 +200,7 @@ struct PositionQuizViewFM: View {
             .padding(.horizontal, 20)
             .padding(.bottom, 30)
         }
+        .onDisappear{ viewModel.showTabBar = true }
     }
     
     private func handleAnswer(_ position: String) {
